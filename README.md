@@ -1,6 +1,6 @@
 -👋 Hi, I’m @CodeRookie777
 
--👀 I’m interested in software development, open-source projects, and exploring new technologies.
+-👀 I’m interested in Machine Learning, open-source projects, and exploring new technologies.
 
 -🌱 I’m currently learning C programming, machine learning with Python, and data structures.
 
