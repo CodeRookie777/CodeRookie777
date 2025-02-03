@@ -8,8 +8,6 @@
 
 -📫 How to reach me via GitHub issues or my email at dwaraka.prasanthk@gmail.com.
 
--😄 Pronouns: he/him
-
 -⚡ Fun fact: I once hiked a mountain that was over 10,000 feet high!
 
 <!---
